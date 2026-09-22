@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036098788918",
+    "project_id": "dashboard-9fa53",
+    "storage_bucket": "dashboard-9fa53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036098788918:android:b97d9710b1bd1c611c0297",
+        "android_client_info": {
+          "package_name": "com.radar.antivol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlBPWXVmlmLp-_SpeixDuun9PpFgP8l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
